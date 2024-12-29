@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there I'm Kal 👋
 
-<!--
-**kalwilson/kalwilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Student in the Software Engineering Bootcamp run by Brainstation.io
+- 💻 Currently preparing myself for bootcamp and going through [Eloquent Javascript](https://eloquentjavascript.net/).
 
-Here are some ideas to get you started:
+### 🌈 Fun Facts
+- 🎧 My playlist is 70% BTS and 30% lo-fi beats.
+- 🍵 Green tea > coffee. Every single time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 2025 Goals
+- [ ] Graduate bootcamp. 
+- [ ] Master HTML, CSS, and Javascript.  
+- [ ] Build a personal portfolio website.
